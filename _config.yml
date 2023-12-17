@@ -22,7 +22,7 @@ title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a site to test creation of a separate repo in github pages
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/test-project" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
